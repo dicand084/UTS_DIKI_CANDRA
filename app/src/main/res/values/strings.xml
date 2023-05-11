@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UTS_BotNav&amp;RecView</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="char_desc">Deskripsi Karakter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //nama char
+    <string name="Alpukat">Alpukat</string>
+    <string name="Anggur">Anggur</string>
+    <string name="Apel">Apel</string>
+    <string name="Durian">Durian</string>
+    <string name="Jambu">Jambu</string>
+    <string name="Jeruk">Jeruk</string>
+    <string name="Leci">Leci</string>
+    <string name="Pepaya">Pepaya</string>
+    <string name="Pisang">Pisang</string>
+    <string name="Semangka">Semangka</string>
+    //desc char
+    <string name="desc_alpukat">Ini buah alpukat.</string>
+    <string name="desc_anggur">Ini buah alpukat</string>
+    <string name="desc_apel">Ini buah apel</string>
+    <string name="desc_durian">Ini buah durian</string>
+    <string name="desc_jambu">Ini buah jambu</string>
+    <string name="desc_jeruk">Ini buah jeruk</string>
+    <string name="desc_leci">Ini buah leci</string>
+    <string name="desc_pepaya">Ini buah pepaya</string>
+    <string name="desc_pisang">Ini buah pisang</string>
+    <string name="desc_semangka">Ini buah semangka</string>
+    //profile
+    <string name="diki">Diki Candra</string>
+    <string name="desc_diki">NIM : 2010031806043  E-Mail : dicand82@gmail.com</string>
+</resources>
+
